@@ -20,5 +20,6 @@
     "mongoose": "^6.4.0",
     "multer": "^1.4.5-lts.1",
     "nodemon": "^2.0.16"
-  }
+  },
+  "proxy": "https://khvashchevski-blog-mern.herokuapp.com/"
 }
